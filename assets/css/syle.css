@@ -1,0 +1,64 @@
+.bg-blue-dark{
+    background-color: 	#032b36;
+}
+
+.navbar-collapse{
+    flex-grow: 0;
+}
+
+.nav-link{
+    color: white;
+}
+
+.bg-blue{
+    background-color: #4B9CD3;
+}
+
+img{
+    max-width: 50%;
+}
+
+
+.clr-white{
+    color: white;
+}
+
+.font-size{
+    font-size: 15px;
+}
+
+
+
+.bg-white{
+    background-color: white;
+}
+
+.line{
+    height: 3px;
+    width:30%;
+    border-radius: 500px;
+    background-color: black;
+}
+
+.img-sect{
+    max-width: 100%;
+}
+
+/* .circle{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid grey;
+} */
+
+.evidenza{
+    color: #4B9CD3;
+}
+
+.font-size-p{
+    font-size: 12px;
+}
+
+.color{
+   background-color: #073980;
+}
